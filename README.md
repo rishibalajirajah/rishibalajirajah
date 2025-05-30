@@ -5,7 +5,7 @@ I'm a Computer Engineering student at UIUC passionate about building meaningful 
 
 ## 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishibalajirajah)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishigaaneshb)
 
 ## 💻 Tech Stack
 
